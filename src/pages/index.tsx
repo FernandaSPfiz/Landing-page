@@ -8,7 +8,7 @@ import "../styles/hero.css";
 import Camera from "../assets/Camera.svg";
 import Wand from "../assets/wand.svg";
 import Tree from "../assets/tree.svg";
-import Card from "../components/card";
+import Card from "../components/Card";
 import sen2 from "../assets/images/sen2.jpg";
 import sen3 from "../assets/images/sen3.jpg";
 
